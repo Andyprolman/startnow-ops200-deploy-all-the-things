@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://limitless-tor-72544.herokuapp.com/",
+  "change_calculator": "https://ajp-change-calculator.herokuapp.com/",
+  "mortgage_calculator": "https://ajp-mortgage-calculator.herokuapp.com/",
+  "top_spots": "https://ajp-sandiego-topspots.herokuapp.com/",
+  "vstda": "https://ajp-vstda.herokuapp.com/"
 }
